@@ -24,10 +24,19 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently learning and building **.NET backend projects**  
-- 🌱 Improving my skills in **Problem Solving & Algorithms**  
-- 🎯 Goal:A solid backend engineer without losing my mind
-- ⚡ Fun fact: *"No fear. No distractions. The ability to let that which does not matter truly slide." 
+-Build modern web apps using ASP.NET (MVC, API, EF Core, LINQ)
+
+-Write efficient and maintainable code in C#, C++
+
+-Design scalable databases and craft optimized SQL queries
+
+-Apply SOLID principles & design patterns in real projects
+
+-Use Object-Oriented Programming (OOP) to create scalable and reusable solutions
+
+-Solve problemes using Algorithms & Data Structures
+
+- Fun fact: "No fear. No distractions. The ability to let that which does not matter truly slide." 
   
 
 ---
