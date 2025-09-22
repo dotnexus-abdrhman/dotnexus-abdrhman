@@ -36,7 +36,7 @@
 
 -Solve problemes using Algorithms & Data Structures
 
-- Fun fact: "No fear. No distractions. The ability to let that which does not matter truly slide." 
+-Fun fact: "No fear. No distractions. The ability to let that which does not matter truly slide." 
   
 
 ---
