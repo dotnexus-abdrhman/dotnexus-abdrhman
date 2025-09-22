@@ -27,7 +27,7 @@
 - 🌱 Improving my skills in **Problem Solving & Algorithms**  
 - 🎯 Goal: Become a solid backend engineer  
 - ⚡ Fun fact: *"No fear. No distractions. The ability to let that which does not matter truly slide." 
-- 👨‍💻 Interested in **Data Structures, Problem Solving & Algorithms**  
+  
 
 ---
 
@@ -63,10 +63,14 @@
 </p>
 ---
 
-## Idk man 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="400" width="500" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
+
+
 
 ---
 
