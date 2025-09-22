@@ -52,11 +52,9 @@
 
 ---
 
-## 📊 Highlight
+## 🎬 Highlight
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dotnexus&show_icons=true&theme=radical" />
-  </a>
+  <img height="400" width="500" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" />
 </p>
 
 ---
