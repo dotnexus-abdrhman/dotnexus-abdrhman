@@ -1,10 +1,10 @@
 <div align="center">
   <h1>
     Hi there, I'm Abdelrahman Alaa 👋
-    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+    <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30" />
   </h1>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
   <p>
     <em>💻 Backend Developer (.NET) | From Aswan, Egypt 🇪🇬</em>
