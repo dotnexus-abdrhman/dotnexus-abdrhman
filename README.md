@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
   <p>
-    <em>💻 Backend Developer (.NET) | From Aswan, Egypt 🇪🇬</em>
+    <em>💻 Backend Developer (.NET) 
   </p>
 
   <p>
