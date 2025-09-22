@@ -26,7 +26,7 @@
 ## 🚀 About Me
 -Build modern web apps using ASP.NET (MVC, API, EF Core, LINQ)
 
--Write efficient and maintainable code in C#, C++
+-Write efficient and maintainable code in C#, C++, Python, C, JavaScript, PowerShel
 
 -Design scalable databases and craft optimized SQL queries
 
