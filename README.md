@@ -24,11 +24,10 @@
 
 ## 🚀 About Me
 - 🔭 Currently learning and building **.NET backend projects**  
-- 🌱 Improving my skills in **ASP.NET Core & Databases**  
+- 🌱 Improving my skills in **Problem Solving & Algorithms**  
 - 🎯 Goal: Become a solid backend engineer  
-- ⚡ Fun fact: Just a programmer who loves clean code ✨  
+- ⚡ Fun fact: *"No fear. No distractions. The ability to let that which does not matter truly slide." – Tyler Durden*  
 - 👨‍💻 Interested in **Data Structures, Problem Solving & Algorithms**  
-- 🐍 Learning Python (basics)  
 
 ---
 
@@ -53,15 +52,14 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dotnexus&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotnexus&layout=compact&theme=dark)
+## 📊 Highlight
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dotnexus&show_icons=true&theme=radical" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Contact Me
 - 📧 Email: abdo3la42@gmail.com  
-
-
-
-
