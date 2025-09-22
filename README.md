@@ -4,7 +4,8 @@
     <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30" />
   </h1>
 
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+  <!-- GIF الجديد بدل الكرتون القديم -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdlbjJzbWxwZXU3eGV1anowMjcyaWo1NTJtejVnYmtybmxiNTFkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI1erPMTMBFmNHi/giphy.gif" width="300" />
 
   <p>
     <em>💻 Backend Developer (.NET) 
