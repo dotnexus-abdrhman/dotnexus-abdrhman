@@ -1,43 +1,49 @@
 <div align="center">
   <h1>
-    Hi there, I'm Rao Hai!
+    Hi there, I'm Abdelrahman Alaa 👋
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
   </h1>
 
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
   <p>
-    <em>🚀 Full Stack / AI Engineer at <a href="https://afx-team.github.io/">Alipay Experience Technology Department</a></em>
+    <em>💻 Backend Developer (.NET) | From Aswan, Egypt 🇪🇬</em>
   </p>
 
   <p>
-    <a href="https://github.com/RaoHai">
-      <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
+    <a href="https://github.com/dotnexus">
+      <img src="https://img.shields.io/github/followers/dotnexus?label=Follow&style=social" />
     </a>
-    <a href="https://github.com/RaoHai">
-      <img src="https://komarev.com/ghpvc/?username=RaoHai&color=brightgreen" />
+    <a href="https://github.com/dotnexus">
+      <img src="https://komarev.com/ghpvc/?username=dotnexus&color=brightgreen" />
     </a>
   </p>
 </div>
 
 ---
 
-## 🎤 Conference Presentations
-
-- **[W3C WebEvolve 2025](https://www.w3.org/2024/01/webevolve-series-events/annual-2025/high-perf.en.html)**  / [Exploration of Rendering Containers and Dynamic Architectures for Web-based AI agents](https://www.w3.org/2024/01/webevolve-series-events/annual-2025/slides/hai-rao.pdf)
-
-- **[GMTC 2021](https://gmtc.infoq.cn/2021/beijing/presentation/3526)** /  [蚂蚁前端灰度监控与变更防御](https://gmtc.infoq.cn/2021/beijing/presentation/3526)
+## 🚀 About Me
+- 🔭 Currently learning and building **.NET backend projects**  
+- 🌱 Improving my skills in **ASP.NET Core & Databases**  
+- 🎯 Goal: Become a solid backend engineer  
+- ⚡ Fun fact: Just a programmer who loves clean code ✨  
 
 ---
 
-## 📝 Latest Blog Posts
+## 🛠️ Tech Stack
+- **Languages:** C#, SQL  
+- **Frameworks:** .NET, ASP.NET Core  
+- **Databases:** SQL Server, PostgreSQL  
+- **Tools:** Git, GitHub, Visual Studio  
 
-- 🌐 [2023 Google I/O Connect Shanghai 参会总结：云，AI 与 Web](https://yuque.com/luchen/buzhou/lbtio5z9p8gssn26) - September 11, 2023
+---
 
-- 📊 [[个人向] Google State of DevOps Reports 2022 解读](https://yuque.com/luchen/buzhou/za1pom) - October 18, 2022
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dotnexus&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotnexus&layout=compact&theme=dark)
 
-- 🔍 [在没有 SourceMap 的情况下反解源码](https://yuque.com/luchen/buzhou/dpbum7) - July 12, 2021
+---
 
-- 🎨 [为自己的团队定制 CSS 框架](https://yuque.com/luchen/buzhou/bs9tzt) - March 2, 2021
+## 📫 Contact Me
+- 📧 Email: abdo3la42@gmail.com
 
-- 🔗 [How I Built A Self-Updating README by Webhooks and Netlify Functions.](https://yuque.com/luchen/buzhou/hga8n6) - July 20, 2020
