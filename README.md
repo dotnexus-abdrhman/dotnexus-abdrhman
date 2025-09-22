@@ -25,7 +25,7 @@
 ## 🚀 About Me
 - 🔭 Currently learning and building **.NET backend projects**  
 - 🌱 Improving my skills in **Problem Solving & Algorithms**  
-- 🎯 Goal: Become a solid backend engineer  
+- 🎯 Goal: ِA solid backend engineer without losing my mind
 - ⚡ Fun fact: *"No fear. No distractions. The ability to let that which does not matter truly slide." 
   
 
